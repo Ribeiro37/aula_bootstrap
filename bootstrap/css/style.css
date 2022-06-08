@@ -1,0 +1,74 @@
+body {
+	background-color: #DD7272
+}
+
+.navbar {
+	background-color: #DD7272;
+	font-size: 20px;
+}
+
+.quem-somos{
+	background-color: #7AB8DA;
+	color: black;
+	font: 20px justify;
+	font-family: Times, Verdana;
+
+}
+.quem-somos a {
+	text-decoration: none;
+	color: #04314A;
+	font-style: italic;
+}
+
+.margin {
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.tripulacao {
+	background-color: #7FA997;
+}
+.tripulacao div {
+	border: 2px solid black;
+}
+.tripulacao a{
+	text-decoration: none;
+}
+.aliance div {
+	border: 2px solid black;
+}
+.aliance{
+	background-color: #F5BA88;
+}
+.aliance a {
+	text-decoration: none;
+	color: #A76601;
+	font-style: italic;
+}
+.bg-footer{
+	background-color: black;
+	color: white;
+	font-family: times;
+}
+
+.rodape {
+	font-style: italic;
+	margin-left: 2px;
+	
+	margin-right: 75%;
+}
+
+
+
+ .btn-fixed {
+ 	color: #C7000F;
+ 	position: fixed;
+ 	bottom: 30px;
+ 	right: 30px;
+ 	visibility: visible;
+ 	text-decoration: none;
+ 	background: #999;
+ 	border: 4px solid black;
+ 	font-size: 25px;
+ }
+
